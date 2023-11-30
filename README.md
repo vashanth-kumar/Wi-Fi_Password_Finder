@@ -18,8 +18,6 @@ This Python program allows users to display available WiFi networks and, with pr
 
 
 
-
-
 ## Security Note
 - Do not misuse this program to access WiFi passwords without proper authorization.
 - Ensure you have explicit permission to access and use WiFi passwords.
