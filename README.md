@@ -12,6 +12,10 @@ This Python program allows users to display available WiFi networks and, with pr
 - Necessary permissions to access WiFi information (for password retrieval)
 
 ## Usage
+
+
+
+
 - Run the script in a terminal or command prompt.
 - Follow the on-screen instructions to view available WiFi networks or retrieve passwords (if allowed).
 
