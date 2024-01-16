@@ -8,7 +8,6 @@ This Python program allows users to display available WiFi networks and, with pr
 - Retrieve passwords for stored WiFi networks (with proper permissions)
   
 ## Requirements
-
 - Python 3.x
 - Necessary permissions to access WiFi information (for password retrieval)
 
